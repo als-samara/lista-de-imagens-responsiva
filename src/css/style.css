@@ -1,0 +1,40 @@
+html {
+    font-family: 'public sans', sans-serif;
+}
+
+.main-content{
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.image-list li {
+    width: 335px;
+    height: 430px;
+}
+
+.main-content img {
+    max-width: 100%;
+}
+
+.caption {
+    margin-top: -30%;
+    margin-left: 20px;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.caption span {
+    display: block;
+    font-weight: 300;
+    font-size: 17px;
+}
