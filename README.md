@@ -13,7 +13,7 @@ Este projeto demonstra a criação de uma lista de imagens responsiva e a centra
 
 ### Responsividade
 
-O arquivo `response.CSS` contém consultas de mídia (`@media`) para diferentes tamanhos de tela, garantindo que a lista de imagens se ajuste adequadamente. Aqui estão algumas configurações chave:
+O arquivo `responsive.CSS` contém consultas de mídia (`@media`) para diferentes tamanhos de tela, garantindo que a lista de imagens se ajuste adequadamente. Aqui estão algumas configurações chave:
 
 ```css
 @media(max-width: 1440px){
